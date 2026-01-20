@@ -1,4 +1,4 @@
-# PCB-design
+# PCB-design_Project1_Transformerless Power Supply
 
 # Printed Circuit Board (PCB) Design – Explanation (KiCad Based)
 
