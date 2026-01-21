@@ -127,3 +127,178 @@ PCB design is carried out using **EDA (Electronic Design Automation) tools**.
 - Used for **lab work, mini-projects, and portfolios**
 - Strong community support and documentation
 
+---
+# PCB Design Using KiCad – Step by Step Guide
+
+This repository documents the complete **PCB design workflow using KiCad**, from installation to final fabrication and project preview.
+
+---
+
+## 1. How to Install KiCad
+- Download KiCad from the official website  
+- Install the software  
+- Set up libraries and default paths  
+
+---
+
+## 2. KiCad Interface
+- Schematic Editor  
+- PCB Editor  
+- Symbol libraries  
+- Footprint libraries  
+- Toolbar and panels  
+
+---
+
+## 3. Planning Our PCB Design
+- Understand the circuit requirement  
+- Identify components  
+- Decide power, ground, and signal flow  
+
+---
+
+## 4. Difference Between THT vs SMD Components
+- **THT (Through Hole Technology)**  
+- **SMD (Surface Mount Device)**  
+- Advantages and disadvantages  
+- Applications of each type  
+
+---
+
+## 5. Prepare the Rough Schematic in KiCad
+- Place all required components  
+- Make basic connections  
+- No focus on appearance at this stage  
+
+---
+
+## 6. Re-designing the Schematic for Best Looks
+- Proper alignment of components  
+- Clean and readable wiring  
+- Logical signal flow  
+
+---
+
+## 7. Adding Rectangles for Beautifying Schematic
+- Group related components  
+- Improve schematic clarity  
+- Add labels for sections  
+
+---
+
+## 8. Automatic Electrical Rules Checker (ERC) in KiCad
+- Detect connection errors  
+- Identify missing power pins  
+- Fix ERC warnings and errors  
+
+---
+
+## 9. Assigning Footprints for Components in KiCad
+- Match schematic symbols to physical footprints  
+- Select correct package size  
+- Verify pin connections  
+
+---
+
+## 10. Layers of Printed Circuit Boards
+- Copper layer  
+- Silk screen  
+- Solder mask  
+- Substrate (FR4)  
+
+---
+
+## 11. PCB Designer in KiCad
+- Open PCB Editor  
+- Import schematic / update PCB from schematic  
+
+---
+
+## 12. Assigning Net Classes & Net Flags in KiCad
+- Define track width  
+- Set clearance rules  
+- Separate power and signal nets  
+
+---
+
+## 13. PCB Layer Designing in KiCad
+- Top layer  
+- Bottom layer  
+- Mechanical layers  
+- Keep-out areas  
+
+---
+
+## 14. Wiring the PCB in KiCad
+- Manual routing  
+- Use short and clean tracks  
+- Avoid sharp angles  
+
+---
+
+## 15. Changing Wire Width (Size) Manually in KiCad
+- Increase width for power lines  
+- Use smaller width for signal lines  
+
+---
+
+## 16. Copper Filling on PCB in KiCad
+- Ground (GND) copper fill  
+- Reduce noise  
+- Improve current flow  
+
+---
+
+## 17. Adding Custom Images on PCB in KiCad
+- Add logos  
+- Add text  
+- Custom graphics on silkscreen  
+
+---
+
+## 18. Automatic Design Rules Checker (DRC) in KiCad
+- Detect clearance violations  
+- Find unconnected pads  
+- Fix errors before fabrication  
+
+---
+
+## 19. What Are Gerber Files in PCB Design
+- Manufacturing output files  
+- Each layer exported separately  
+
+---
+
+## 20. Exporting Our PCB in KiCad for Fabrication
+- Generate Gerber files  
+- Generate drill files  
+
+---
+
+## 21. Check Our Gerber Files Before Sending for Fabrication
+- Use Gerber viewer  
+- Verify layers and alignment  
+- Confirm no missing data  
+
+---
+
+## 22. How to Order Our PCB Online from Lion Circuits
+- Upload Gerber files  
+- Select PCB specifications  
+- Place order  
+
+---
+
+## 23. PCB After Fabrication
+- Inspect physical board  
+- Check dimensions  
+- Verify copper and solder mask quality  
+
+---
+
+## 24. Final Project Preview
+- Completed PCB  
+- Ready for assembly and testing  
+
+---
+
